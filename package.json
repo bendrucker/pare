@@ -1,7 +1,7 @@
 {
   "name": "pare",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Compare a function input against the previous input value",
   "license": "MIT",
   "repository": "bendrucker/pare",
