@@ -1,0 +1,29 @@
+{
+  "name": "pare",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Compare a function input against the previous input value",
+  "license": "MIT",
+  "repository": "bendrucker/pare",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "compare",
+    "function",
+    "input",
+    "value"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
