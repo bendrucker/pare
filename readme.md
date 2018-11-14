@@ -1,4 +1,4 @@
-# pare [![Build Status](https://travis-ci.org/bendrucker/pare.svg?branch=master)](https://travis-ci.org/bendrucker/pare)
+# pare [![Build Status](https://travis-ci.org/bendrucker/pare.svg?branch=master)](https://travis-ci.org/bendrucker/pare) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/pare.svg)](https://greenkeeper.io/)
 
 > Compare a function input against the previous input value
 
